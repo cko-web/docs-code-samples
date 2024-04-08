@@ -1,0 +1,9 @@
+{
+  "id": "ps_2Un6I6lRpIAiIEwQIyxWVnV9CqQ",
+  "payment_session_token": "YmFzZTY0:eyJpZCI6InBzXzJVbjZJNmxScElBaUlFd1FJeXhXVm5WOUNxUSIsImFtb3VudCI6MTAwMCwibG9jYWxlIjoiZW4tR0IiLCJjdXJyZW5jeSI6IkdCUCIsInBheW1lbnRfbWV0aG9kcyI6W3sidHlwZSI6ImNhcmQiLCJjYXJkX3NjaGVtZXMiOlsiVmlzYSIsIk1hc3RlcmNhcmQiLCJBbWV4Il19XSwicmlzayI6eyJlbmFibGVkIjp0cnVlfSwiX2xpbmtzIjp7InNlbGYiOnsiaHJlZiI6Imh0dHBzOi8vYXBpLnNhbmRib3guY2hlY2tvdXQuY29tL3BheW1lbnQtc2Vzc2lvbnMvcHNfMlVuNkk2bFJwSUFpSUV3UUl5eFdWblY5Q3FRIn19fQ==",
+  "_links": {
+    "self": {
+      "href": "https://api.sandbox.checkout.com/payment-sessions/ps_2Un6I6lRpIAiIEwQIyxWVnV9CqQ"
+    }
+  }
+}

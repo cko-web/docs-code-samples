@@ -1,0 +1,1 @@
+npm install @checkout.com/checkout-web-components --save
