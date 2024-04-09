@@ -1,0 +1,1 @@
+const payments = cko.create('payments');
